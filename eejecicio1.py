@@ -1,5 +1,1 @@
-nombre="pablo"
-apellido="doma"
-print (f"hola {nombre} como estas tu apellido es ? {apellido}") 
-materia="programacion 1"
-print("estamos en la rama 2 papa!")
+c
